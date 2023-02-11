@@ -1,0 +1,5 @@
+//in backend file, install mongoose to connect db
+npm install mongoose
+
+//run backend server
+npm run dev
