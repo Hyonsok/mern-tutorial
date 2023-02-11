@@ -3,3 +3,6 @@ npm install mongoose
 
 //run backend server
 npm run dev
+
+//install bcrypt to encrypt user password when sign up
+npm install bcrypt
